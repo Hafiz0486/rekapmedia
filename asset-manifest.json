@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rekapmedia/static/css/main.63e10004.css",
+    "main.js": "/rekapmedia/static/js/main.f72e9cfb.js",
+    "static/js/255.24247746.chunk.js": "/rekapmedia/static/js/255.24247746.chunk.js",
+    "index.html": "/rekapmedia/index.html",
+    "main.63e10004.css.map": "/rekapmedia/static/css/main.63e10004.css.map",
+    "main.f72e9cfb.js.map": "/rekapmedia/static/js/main.f72e9cfb.js.map",
+    "255.24247746.chunk.js.map": "/rekapmedia/static/js/255.24247746.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63e10004.css",
+    "static/js/main.f72e9cfb.js"
+  ]
+}
